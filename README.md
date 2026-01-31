@@ -2,4 +2,4 @@
 Discovering Computer DPI day 1
 
 
-editing one
+editing ones
